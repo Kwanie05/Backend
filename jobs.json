@@ -1,0 +1,50 @@
+[
+    {
+        "job_id": 1,
+        "jobName": "Software Engineer",
+        "datePosted": "2024-10-02",
+        "company": "TechCorp",
+        "description": "Develops software applications.",
+        "responsibilities": "Design, develop, and maintain software applications, Collaborate with product managers and designers to implement new features, Troubleshoot and debug applications, Write clean, maintainable code and documentation, Participate in code reviews and contribute to team knowledge sharing.",
+        "location": "Pretoria",
+        "positionType": "Full-Time",
+        "requirements": "Bachelor’s degree in Computer Science or a related field, 2+ years of experience in software development, Proficiency in JavaScript, React, and Node.js, Strong problem-solving skills and attention to detail, Excellent communication and teamwork abilities.",
+        "salary": "R40000"  
+    },
+    {
+        "id_job": 2,
+        "jobName": "Data Scientist",
+        "datePosted": "2024-10-02",
+        "company": "Data Solutions",
+        "description": "Analyzes data and builds predictive models.",
+        "responsibilities": "Gather and pre-process data from various sources, ensuring data quality and integrity, Analyze complex datasets to identify trends, patterns, and insights that can inform business decisions, Develop and implement machine learning models to solve specific business problems. Present results and insights to non-technical stakeholders through reports and presentations.",
+        "location": "Pretoria",
+        "positionType": "Full-Time",
+        "requirements": "Bachelor’s or Master’s degree in Data Science, Statistics, Computer Science, Mathematics, or related field. Proficiency in programming languages (e.g., Python, R, SQL). Experience with data manipulation and analysis libraries (e.g., Pandas, NumPy). Familiarity with machine learning frameworks (e.g., TensorFlow, Scikit-learn). Strong understanding of statistics and probability. Experience in hypothesis testing, A/B testing, and statistical modeling. Strong analytical and critical thinking abilities.",
+        "salary": "R30000" 
+    },
+    {
+        "id_job": 3,
+        "jobName": "Web Developer",
+        "datePosted": "2024-10-10",
+        "company": "Web Innovations",
+        "description": "Creates and maintains websites.",
+        "responsibilities": "Optimize applications for maximum speed and scalability, Conduct tests to identify and fix bugs or issues to improve website performance and user experience, Collaborate with designers to translate UI/UX designs into functional web interfaces, Build and maintain websites and web applications, ensuring functionality and performance.",
+        "location": "Cape Town",
+        "positionType": "Full-Time",
+        "requirements": "Bachelor’s degree in Computer Science, Web Development, or a related field (or equivalent experience), Proficiency in HTML, CSS, and JavaScripExperience with front-end frameworks (e.g., React, Angular, Vue.js) or back-end technologies (e.g., Node.js, PHP, Ruby on Rails), Familiarity with version control systems (e.g., Git), Knowledge of responsive web design principles and frameworks (e.g., Bootstrap, Tailwind CSS), Good communication and teamwork abilities, as collaboration with designers and other developers is common.",
+        "salary": "R40000"
+    },
+    {
+        "id_job": 4,
+        "jobName": "Product Manager",
+        "datePosted": "2024-09-10",
+        "company": "Product Co",
+        "description": "Manages product development.",
+        "responsibilities": "Define and communicate the product vision, strategy, and roadmap, Conduct market research to identify customer needs, trends, and competitive landscape, Work closely with engineering, design, marketing, and sales teams to ensure successful product development and launch, Collect and prioritize product requirements based on customer feedback and business objectives, Oversee the product development process, ensuring timely delivery and alignment with goals, Analyze product performance using metrics and KPIs, and make data-driven decisions for improvements.",
+        "location": "Durban",
+        "positionType": "Full-Time",
+        "requirements": "Bachelor’s degree in Business, Marketing, Computer Science, or a related field (Master’s preferred), Proven experience in product management or a related role (typically 3-5 years), Understanding of software development processes and agile methodologies, Familiarity with product management tools (e.g., JIRA, Trello, Asana), Strong data analysis skills and ability to interpret market research and customer feedback, Understanding of business strategy and market dynamics, Ability to lead and motivate cross-functional teams.",
+        "salary": "R20000"
+    }
+]
